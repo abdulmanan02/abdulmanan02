@@ -13,7 +13,7 @@
 - 👥 Worked across diverse domains: **Retail, E-Commerce, AI Data Annotation & Industrial Automation**
 - 💡 Currently architecting **multi-tenant systems** and optimizing high-performance databases at scale
 - 📍 Based in Pakistan, having delivered impact for clients across the **Middle East and United States**
-- 📄 **[View My Resume](https://github.com/user-attachments/files/24206321/Abdul.Manan.-.Curriculum.Vitae.pdf)**
+- 📄 **[View My Resume](https://github.com/user-attachments/files/24206366/Abdul_Manan-Curriculum_Vitae.pdf)**
 
 ---
 
