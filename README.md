@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdul Manan</h1>
 <h3 align="center">Polyglot Engineer | Full-Stack Developer | Cloud Enthusiast </h3>
 
+<p align="center">
+  🎥 <a href="https://drive.google.com/file/d/1cgKSgLfEhxhaq9Nx1NlV_jbVV0WXCxz7/view?usp=sharing"><b>whoami</b></a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -14,7 +18,6 @@
 - 💡 Currently architecting **multi-tenant systems** and optimizing high-performance databases at scale
 - 📍 Based in Pakistan, having delivered impact for clients across the **Middle East and United States**
 - 📄 **[View My Resume](https://abdulmanan02.github.io/abdulmanan02/Curriculum%20Vitae.pdf)**
-
 ---
 
 ### 🛠️ Tech Stack
